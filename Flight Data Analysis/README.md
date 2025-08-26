@@ -1,7 +1,8 @@
 ## README — Flight Data Analysis
 
 **Project Overview**
-
+&nbsp;
+&nbsp;
 This Jupyter Notebook explores a Flight Analysis dataset to perform data cleaning, feature engineering, and generate key insights and visualizations. It guides you through
 
 
@@ -13,9 +14,10 @@ Visualizing relationships between flight details (like stops, airlines, source) 
 
 Drawing actionable insights such as peak booking times and revenue trends.
 
-
+&nbsp;
 **File Structure**
-
+&nbsp;
+&nbsp;
 Flight Data Analysis.ipynb — Main Jupyter Notebook with step-by-step code, comments, and visualizations.
 
 Data_Train.xlsx — Raw input dataset containing flight details and pricing.
