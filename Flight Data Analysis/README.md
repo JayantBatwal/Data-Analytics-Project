@@ -1,8 +1,6 @@
-README — Flight Data Analysis
+## README — Flight Data Analysis
 
-
-Project Overview
-
+**Project Overview**
 
 This Jupyter Notebook explores a Flight Analysis dataset to perform data cleaning, feature engineering, and generate key insights and visualizations. It guides you through
 
@@ -16,8 +14,7 @@ Visualizing relationships between flight details (like stops, airlines, source) 
 Drawing actionable insights such as peak booking times and revenue trends.
 
 
-File Structure
-
+**File Structure**
 
 Flight Data Analysis.ipynb — Main Jupyter Notebook with step-by-step code, comments, and visualizations.
 
@@ -28,7 +25,7 @@ requirements.txt — Dependencies required to replicate analysis.
 (Optional) README.md — Documentation overview (this file).
 
 
-Setup & Dependencies
+**Setup & Dependencies**
 
 
 Install the required Python libraries using :
@@ -38,7 +35,7 @@ pip install -r requirements.txt
 Suggested dependencies ( in a requirements.txt ):
 
 
-Workflow & Highlights
+**Workflow & Highlights**
 
 
 Imports & Configuration
@@ -59,7 +56,7 @@ Converted date/time columns (Date_of_Journey, Dep_Time, Arrival_Time) into datet
 Transformed Total_Stops from categorical to numeric (e.g., "non-stop" → 0).
 
 
-Extracted useful features like:
+**Extracted useful features like:**
 
 
 Month_of_Journey and Day_of_Journey
@@ -79,7 +76,7 @@ Scatter visualizations for journey timing against stops.
 Monthly flight counts and revenue insights via bar charts.
 
 
-Key Insights Highlighted
+**Key Insights Highlighted**
 
 Distribution of flights across different stopages.
 
@@ -102,7 +99,7 @@ Apply predictive modeling—like regression or classification for pricing.
 Incorporate external data (seasonality, holidays) for richer insights.
 
 
-Getting Started
+**Getting Started**
 
 Clone the repo.
 
@@ -114,3 +111,4 @@ jupyter notebook Flight Data Analysis.ipynb
 
 Walk through each section, examine the code, and explore your own visualizations.
 
+CREATED BY - JAYANT BATWAL
